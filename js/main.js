@@ -1,1 +1,388 @@
-var _0x217a=["\x75\x73\x65\x20\x73\x74\x72\x69\x63\x74","\x6C\x6F\x61\x64","\x66\x61\x64\x65\x4F\x75\x74","\x64\x65\x6C\x61\x79","\x2E\x70\x72\x65\x6C\x6F\x61\x64\x65\x72\x2D\x61\x72\x65\x61","\x6F\x6E","\x73\x63\x72\x6F\x6C\x6C","\x73\x63\x72\x6F\x6C\x6C\x54\x6F\x70","\x66\x69\x78\x65\x64\x2D\x68\x65\x61\x64\x65\x72","\x61\x64\x64\x43\x6C\x61\x73\x73","\x68\x65\x61\x64\x65\x72","\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73","\x6C\x65\x6E\x67\x74\x68","\x2E\x6D\x65\x6E\x75\x2D\x74\x72\x69\x67\x67\x65\x72","\x63\x6C\x69\x63\x6B","\x61\x63\x74\x69\x76\x65","\x74\x6F\x67\x67\x6C\x65\x43\x6C\x61\x73\x73","\x73\x6C\x69\x64\x65\x54\x6F\x67\x67\x6C\x65","\x2E\x68\x65\x61\x64\x65\x72\x2D\x61\x72\x65\x61\x20\x2E\x6E\x61\x76","\x64\x69\x73\x70\x6C\x61\x79","\x6E\x6F\x6E\x65","\x63\x73\x73","\x2E\x6E\x61\x76","\x77\x69\x64\x74\x68","\x68\x72\x65\x66","\x61\x74\x74\x72","\x74\x6F\x70","\x6F\x66\x66\x73\x65\x74","\x61\x6E\x69\x6D\x61\x74\x65","\x68\x74\x6D\x6C\x2C\x20\x62\x6F\x64\x79","\x70\x72\x65\x76\x65\x6E\x74\x44\x65\x66\x61\x75\x6C\x74","\x2E\x6E\x61\x76\x20\x61","\x23\x77\x6F\x72\x6B\x73","\x2E\x67\x72\x69\x64\x2D\x69\x74\x65\x6D","\x2E\x67\x72\x69\x64\x2D\x73\x69\x7A\x65\x72","\x69\x73\x6F\x74\x6F\x70\x65","\x2E\x67\x72\x69\x64","\x74\x65\x78\x74","\x73\x77\x69\x6E\x67","\x63\x65\x69\x6C","\x63\x6F\x75\x6E\x74\x65\x72","\x70\x72\x6F\x70","\x61\x70\x70\x65\x61\x72","\x65\x61\x63\x68","\x2E\x63\x6F\x75\x6E\x74\x65\x72","\x6F\x77\x6C\x43\x61\x72\x6F\x75\x73\x65\x6C","\x2E\x74\x65\x73\x74\x69\x2D\x73\x6C\x69\x64\x65"];(function(_0xb74fx1){_0x217a[0];_0xb74fx1(window)[_0x217a[5]](_0x217a[1],function(){_0xb74fx1(_0x217a[4])[_0x217a[3]](200)[_0x217a[2]](500)});_0xb74fx1(window)[_0x217a[5]](_0x217a[6],function(){var _0xb74fx2=_0xb74fx1(window)[_0x217a[7]]();if(_0xb74fx2>= 500){_0xb74fx1(_0x217a[10])[_0x217a[9]](_0x217a[8])}else {_0xb74fx1(_0x217a[10])[_0x217a[11]](_0x217a[8])}});if(_0xb74fx1(_0x217a[13])[_0x217a[12]]){_0xb74fx1(_0x217a[13])[_0x217a[5]](_0x217a[14],function(){_0xb74fx1(this)[_0x217a[16]](_0x217a[15]);_0xb74fx1(_0x217a[18])[_0x217a[17]](200)})};_0xb74fx1(function(){_0xb74fx1(_0x217a[31])[_0x217a[5]](_0x217a[14],function(_0xb74fx3){_0xb74fx1(_0x217a[22])[_0x217a[21]](_0x217a[19],_0x217a[20]);if(_0xb74fx1(window)[_0x217a[23]]()<= 991){_0xb74fx1(_0x217a[13])[_0x217a[16]](_0x217a[15])};var _0xb74fx4=_0xb74fx1(_0xb74fx1(this)[_0x217a[25]](_0x217a[24]));_0xb74fx1(_0x217a[29])[_0x217a[28]]({scrollTop:_0xb74fx4[_0x217a[27]]()[_0x217a[26]]- 80},600);_0xb74fx1(this)[_0x217a[9]](_0x217a[15]);_0xb74fx3[_0x217a[30]]()})});_0xb74fx1(window)[_0x217a[5]](_0x217a[1],function(){if(_0xb74fx1(_0x217a[32])){var _0xb74fx5=_0xb74fx1(_0x217a[36])[_0x217a[35]]({itemSelector:_0x217a[33],percentPosition:true,masonry:{columnWidth:_0x217a[34]}})}});_0xb74fx1(_0x217a[44])[_0x217a[43]](function(){_0xb74fx1(this)[_0x217a[42]](function(){_0xb74fx1(this)[_0x217a[41]](_0x217a[40],0)[_0x217a[28]]({counter:_0xb74fx1(this)[_0x217a[37]]()},{duration:4e3,easing:_0x217a[38],step:function(_0xb74fx6){_0xb74fx1(this)[_0x217a[37]](Math[_0x217a[39]](_0xb74fx6))}})},{accX:0,accY:0})});_0xb74fx1(_0x217a[46])[_0x217a[45]]({loop:true,margin:0,responsiveClass:true,dots:true,autoplay:true,autoplayTimeout:4000,smartSpeed:1000,responsive:{0:{items:1},776:{items:2},991:{items:2},1000:{items:3}}})})(jQuery)
+/*-----------------------------------------------------------
+ * Template Name    : Kamal - Personal Portfolio Template
+ * Version          : 1.0
+ * File Description : This File Includes all Custom js
+ *------------------------------------------------------------*/
+
+/*======================================================================
+ Table of Content:
+ 
+ 01. One Page Scrollspy
+ 02. Header Sticky
+ 03. Tooltip
+ 04. Skills LineProgressbar
+ 05. jQuery counterUp
+ 06. Porfolio Isotope Filter
+ 07. Magnific Popup
+ 7.1. Image Gallery Popup
+ 7.2. Youtube - Vimeo - SoundCloud Popup
+ 7.3. Porfolio Detail Popup
+ 7.4. Blog Detail Popup
+ 08. Form Validation
+ 09. Menu Toggle
+ 10. Back To Top Scroll Arrow
+ 11. Contact Form Submission
+ ========================================================================*/
+
+
+(function ($) {
+    // Start of use strict
+    'use strict';
+
+    /*--------------------------------
+     01. One Page Scrollspy
+     ----------------------------------*/
+    $('body').scrollspy({target: '#navigation'});
+    function scrollToSection(event) {
+        event.preventDefault();
+        var $section = $($(this).attr('href'));
+        $('html, body').animate({
+            scrollTop: $section.offset().top
+        }, 1000);
+    }
+    $('#navigation [data-scroll]').on('click', scrollToSection);
+    $(this).addClass('active').siblings().removeClass('active');
+
+    /*--------------------------------
+     02. Header Sticky
+     ----------------------------------*/
+    $(window).on('scroll', function () {
+        if ($(this).scrollTop() > 100) {
+            $('#header').addClass("sticky-header fadeInDown");
+        } else {
+            $('#header').removeClass("sticky-header fadeInDown");
+        }
+    });
+    $('.main-wrapper').on('click', '.about-btn', function () {
+        $('.navbar li a[href="#about"]').trigger('click');
+    });
+    $('.main-wrapper').on('click', '.portfolio-btn', function () {
+        $('.navbar li a[href="#portfolio"]').trigger('click');
+    });
+
+    /*--------------------------------
+     03. Tooltip
+     ----------------------------------*/
+    function tooltip() {
+        $('[data-toggle="tooltip"]').tooltip();
+    }
+    tooltip();
+
+    /*--------------------------------
+     04. Skills LineProgressbar
+     ----------------------------------*/
+    function skill_html() {
+        $('#html').LineProgressbar({
+            percentage: 95,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_html();
+
+    function skill_css() {
+        $('#css').LineProgressbar({
+            percentage: 90,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_css();
+
+    function skill_javaScript() {
+        $('#javascript').LineProgressbar({
+            percentage: 65,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_javaScript();
+
+    function skill_jquery() {
+        $('#jquery').LineProgressbar({
+            percentage: 75,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_jquery();
+
+    function skill_wordpress() {
+        $('#wordpress').LineProgressbar({
+            percentage: 95,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_wordpress();
+
+    function skill_web_design() {
+        $('#web-design').LineProgressbar({
+            percentage: 90,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_web_design();
+
+    function skill_php() {
+        $('#php').LineProgressbar({
+            percentage: 65,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_php();
+
+    function skill_web_development() {
+        $('#web-development').LineProgressbar({
+            percentage: 75,
+            radius: '3px',
+            height: '10px',
+            duration: 6000,
+            backgroundColor: '#ddd'
+        });
+    }
+    skill_web_development();
+
+    /*--------------------------------
+     05. jQuery counterUp
+     ----------------------------------*/
+    function counter_number() {
+        $('.counter').countUp();
+    }
+    counter_number();
+
+    /*--------------------------------
+     06. Porfolio Isotope Filter
+     ----------------------------------*/
+    $(window).on('load', function () {
+        /* Porfolio Filter */
+        var portfolioIsotope = $('.portfolio-container').isotope({
+            itemSelector: '.portfolio-item',
+            layoutMode: 'fitRows'
+        });
+        $('#portfolio-flters li').on('click', function () {
+            $("#portfolio-flters li").removeClass('filter-active');
+            $(this).addClass('filter-active');
+            portfolioIsotope.isotope({
+                filter: $(this).data('filter')
+            });
+        });
+
+        /* Preloader */
+        $('.preloader').removeClass("active");
+    });
+
+    /*--------------------------------
+     7.1. Image Gallery Popup
+     ----------------------------------*/
+    function image_gallery() {
+        $('.gallery-popup-btn').magnificPopup({
+            type: 'image',
+            gallery: {
+                enabled: true
+            }
+        });
+    }
+    image_gallery();
+
+    /*--------------------------------
+     7.2. Youtube - Vimeo - SoundCloud Popup
+     ----------------------------------*/
+    function video_soundcloud() {
+        $('.magnific-youtube,.magnific-vimeo,.magnific-soundcloud').magnificPopup({
+            type: 'iframe',
+            mainClass: 'mfp-fade',
+            removalDelay: 300,
+            preloader: true,
+            fixedContentPos: false
+        });
+    }
+    video_soundcloud();
+
+    /*--------------------------------
+     7.3. Porfolio Detail Popup
+     ----------------------------------*/
+    function porfolio_detail_popup() {
+        $('.portfolio-detail-popup').magnificPopup({
+            type: 'inline',
+            mainClass: 'mfp-fade',
+            preloader: true,
+            gallery: {
+                enabled: true
+            }
+        });
+    }
+    porfolio_detail_popup();
+
+    /*--------------------------------
+     7.4. Blog Detail Popup
+     ----------------------------------*/
+    function blog_detail_popup() {
+        $('.blog-detail-popup').magnificPopup({
+            type: 'inline',
+            mainClass: 'mfp-fade',
+            preloader: true,
+            gallery: {
+                enabled: true
+            }
+        });
+    }
+    blog_detail_popup();
+
+    /*--------------------------------
+     08. Form Validation
+     ----------------------------------*/
+    window.addEventListener('load', function () {
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.getElementsByClassName('needs-validation');
+        // Loop over them and prevent submission
+        var validation = Array.prototype.filter.call(forms, function (form) {
+            form.addEventListener('submit', function (event) {
+                if (form.checkValidity() === false) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+                form.classList.add('was-validated');
+            }, false);
+        });
+    }, false);
+
+    /*--------------------------------
+     09. Menu Toggle
+     ----------------------------------*/
+    $('.menu-toggle').on("click", function () {
+        $('.navigation-menu').addClass('toggled');
+        $('.navigation-menu').toggleClass('mobile-menu-hide');
+        $('.menu-toggle').toggleClass('open');
+    });
+    function mobileMenuHide() {
+        var windowWidth = $(window).width(),
+                siteHeader = $('.navigation-menu');
+        if (windowWidth < 992) {
+            siteHeader.addClass('mobile-menu-hide');
+            $('.menu-toggle').removeClass('open');
+            setTimeout(function () {
+                siteHeader.addClass('toggled');
+            }, 500);
+        } else {
+            siteHeader.removeClass('toggled');
+        }
+    }
+    $('.navigation-menu').on("click", "a:not(.sublink)", function (e) {
+        e.preventDefault();
+        mobileMenuHide();
+    });
+
+    /*--------------------------------
+     10. Back To Top Scroll Arrow
+     ----------------------------------*/
+    function back_to_top() {
+        $(".back-to-top").on("click", function () {
+            $("html, body").animate({
+                scrollTop: 0
+            }, 1000);
+            return false;
+        });
+    }
+    back_to_top();
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 300) {
+            $(".back-to-top").fadeIn();
+        } else {
+            $(".back-to-top").fadeOut();
+        }
+    });
+
+    /*--------------------------------
+     11. Contact Form Submission
+     ----------------------------------*/
+    $(document).on('click', '.submit .btn', function () {
+        var frm = $(this).parents('form');
+        var name = $('input[name="name"]').val();
+        var phone = $('input[name="phone"]').val();
+        var subject = $('input[name="subject"]').val();
+        var message = $('textarea[name="message"]').val();
+        var mail = $('input[name="email"]').val();
+        var emailreg = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        var valid = true;
+
+        if (name.trim() == "") {
+            $('#name_error').html("Please enter name.");
+            valid = false;
+        } else {
+            $('#name_error').html("");
+        }
+
+        if (mail.trim() == "") {
+            $('#email_error').html("Please enter email.");
+            valid = false;
+        } else if (!emailreg.test(mail)) {
+            $('#email_error').html("Please enter valid email.");
+            valid = false;
+        } else {
+            $('#email_error').html("");
+        }
+
+        if (phone.trim() == "") {
+            $('#phone_error').html("Please enter phone number.");
+            valid = false;
+        } else {
+            $('#phone_error').html("");
+        }
+
+        if (subject.trim() == "") {
+            $('#subject_error').html("Please enter subject.");
+            valid = false;
+        } else {
+            $('#subject_error').html("");
+        }
+
+        if (message.trim() == "") {
+            $('#message_error').html("Please enter message.");
+            valid = false;
+        } else {
+            $('#message_error').html("");
+        }
+
+        if (valid) {
+            $.ajax({
+                type: "POST",
+                url: "assets/php/mail.php",
+                data: frm.serialize(),
+                beforeSend: function () {
+                    $(".loading").show();
+                },
+                success: function (response) {
+                    $(".loading").hide();
+                    var response = JSON.parse(response);
+                    if (response.success) {
+                        $('.response-msg').html(response.success);
+                        $('#contact-form')[0].reset();
+                    }
+                    if (response.error) {
+                        $('.response-msg').html(response.error);
+                    }
+                }
+            });
+        }
+        return false;
+    });
+
+})(jQuery);
+
