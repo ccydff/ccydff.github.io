@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. chaoji ccy, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. chaoji ccy, 2014
+* Ph.D chaoji ccy, 2014 (expected)
 
 Work experience
 ======
